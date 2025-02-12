@@ -10,7 +10,6 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.17.1-x64-mingw-ucrt)
-    ffi (1.17.1-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     i18n (1.14.7)
@@ -64,10 +63,10 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
-  x86_64-linux
 
 DEPENDENCIES
-  jekyll (~> 4.2.0)
+  bundler (~> 2.6)
+  jekyll (~> 4.2.2)
   jekyll-paginate
   jekyll-seo-tag
   kramdown (~> 2.3.0)
@@ -75,4 +74,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.3.7
+   2.6.3

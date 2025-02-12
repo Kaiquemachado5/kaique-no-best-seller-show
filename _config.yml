@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Webjeda cards
+title: Minha Biblioteca
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
@@ -60,3 +60,9 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
+# Colections
+collections:
+  artigos:
+    output: true
+    permalink: /artigos/:year/:month/:day/:name/
+    layout: livro

@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<h1 class="text-center mb-5">Posts da Categoria: {{ page.category }}</h1>
+
+<div class="row">
+  {% for post in site.categories[page.category] %}
+    <div class="col-md-4 mb-4">
+      <article class="card box-shadow">  <!-- Usando 'card' diretamente -->
+        {% if post.image %}
+          <div class="image">
+            <img src="{{ post.image }}" alt="{{ post.title }}" class="image ">
+          </div>
+        {% endif %}
+        <div class="card-body">
+          <h2 class="card-title"><a href="{{ post.url }}" class="text-dark">{{ post.title }}</a></h2>
+          <p class="card-text">{{ post.excerpt }}</p>
+        </div>
+      </article>
+    </div>
+  {% endfor %}
+</div>

@@ -1,5 +1,5 @@
 <nav class="container navbar navbar-expand-lg navbar-light bg-transparent">
-  <a class="navbar-brand" href={{"/" | relative_url}}>Cards</a>
+  <a class="navbar-brand" href={{"/" | relative_url}}>Minha Biblioteca</a>
   <button
     class="navbar-toggler"
     type="button"
@@ -16,11 +16,11 @@
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
         <a class="nav-link" href={{"/" | relative_url}}
-          >Home <span class="sr-only">(current)</span></a
+          >Lar <span class="sr-only">(current)</span></a
         >
       </li>
       <li class="nav-item">
-        <a class="nav-link" href={{"/about/" | relative_url}} >About</a>
+        <a class="nav-link" href={{"/about/" | relative_url}} >Sobre</a>
       </li>
       <li class="nav-item dropdown">
         <a
@@ -32,22 +32,18 @@
           aria-haspopup="true"
           aria-expanded="false"
         >
-          Dropdown
+          Categorias
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
+          <a class="dropdown-item" href="/categorias/Fantasia/">Fantasia</a> 
+          <a class="dropdown-item" href="/categorias/Romance/">Romance</a>
           <div class="dropdown-divider"></div>
           <a
-            class="dropdown-item"
-            target="_blank"
-            href="https://jekyll-themes.com"
-            >More Themes</a
           >
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/sharu725/cards">Download</a>
+        <a class="nav-link" href={{"/resenhas/" | relative_url}} >Resenhas</a>
       </li>
     </ul>
   </div>

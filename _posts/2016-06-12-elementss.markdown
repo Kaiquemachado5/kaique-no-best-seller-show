@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Elements"
+title:  "Elementss"
 categories: Fantasia
-image: /images/image-4.png
+image: /images/image-6.png
 ---
 Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
 

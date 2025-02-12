@@ -10,3 +10,5 @@ end
 gem 'rexml', '>= 3.3.9'
 gem 'webrick', '~> 1.7'
 gem 'kramdown', '~> 2.3.0'
+
+gem "bundler", "~> 2.6"

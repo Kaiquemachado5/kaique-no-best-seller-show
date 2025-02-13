@@ -12,3 +12,5 @@ gem 'webrick', '~> 1.7'
 gem 'kramdown', '~> 2.3.0'
 
 gem "bundler", "~> 2.6"
+
+gem "jekyll-sass-converter", "2.2.0"

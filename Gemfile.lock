@@ -68,6 +68,7 @@ DEPENDENCIES
   bundler (~> 2.6)
   jekyll (~> 4.2.2)
   jekyll-paginate
+  jekyll-sass-converter (= 2.2.0)
   jekyll-seo-tag
   kramdown (~> 2.3.0)
   rexml (>= 3.3.9)

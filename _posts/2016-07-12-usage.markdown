@@ -3,6 +3,7 @@ layout: post
 title:  "O príncipe cruel (Vol. 1 O Povo do Ar)"
 categories: jekyll update
 image: /images/image-2.png
+categories: Fantasia
 categories: two
 ---
 

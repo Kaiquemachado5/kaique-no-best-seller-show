@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 
 permalink: /resenhas/
 ---
@@ -39,7 +39,7 @@ permalink: /resenhas/
     {% assign artigos_ordenados = site.artigos | sort: "date" %}
     {% for artigo in artigos_ordenados %}
         <li data-genre="{{ artigo.genre | downcase }}" data-tags="{{ artigo.tags | join: ',' | downcase }}">
-            <a href="{{ artigo.url }}">{{ artigo.title }}</a>
+            <a href="{{ artigo.url | prepend: site.baseurl }}">{{ artigo.title }}</a>
             <p>Autor: {{ artigo.author }} | Avaliação: {{ artigo.rating }} estrelas</p>
         </li>
     {% endfor %}

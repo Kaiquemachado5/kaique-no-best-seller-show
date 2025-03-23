@@ -34,9 +34,7 @@ layout: default
           </li>
           {% endif %} {% if page.previous.url %}
           <li class="page-item">
-            <a class="page-link" href="{{page.previous.url}}"
-              >{{page.previous.title}} &raquo;</a
-            >
+            <a class="page-link" href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }} &raquo;</a>
           </li>
           {% endif %}
         </ul>

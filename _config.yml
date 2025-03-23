@@ -13,7 +13,8 @@ description: > # this means to ignore newlines until "baseurl:"
   
   
 #baseurl: "/cards" # the subpath of your site, e.g. /blog
-url: "https://kaique-no-best-seller-show-596v-h1eaqytzz.vercel.app/" # the base hostname & protocol for your site
+baseurl: "/kaique-no-best-seller-show"
+url: "https://kaiquemachado5.github.io" # the base hostname & protocol for your site
 
 #sidebar
 default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
@@ -23,11 +24,12 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 built-by: webjeda
 
 copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+   name: Biblioteca Best Seller Show
+   link: 'https://www.youtube.com/@kaiquenobestsellershow'
 
 # Build settings
-permalink: /:title/
+permalink: "/:title/:year/:month/:title/"
+
 paginate: 6
 paginate_path: /page:num/
 
@@ -64,8 +66,10 @@ plugins:
 collections:
   artigos:
     output: true
-    permalink: /artigos/:year/:month/:day/:name/
+    permalink: "/:title/:year/:month/:title/"
+
+
     layout: livro
 
 logging:
-  level: error
+  level: fatal

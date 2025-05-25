@@ -1,0 +1,66 @@
+/* Garante que o texto digitado na barra de pesquisa tenha cor preta */
+input:focus {
+    color: black !important; /* Garante que o texto digitado ficará preto */
+  }
+  
+  input {
+    color: black; /* Certifica-se de que o texto padrão também seja preto */
+  }
+  .border {
+  border: none !important;
+}
+
+.mb-2 {
+  border: none !important;
+}
+.p-6 {
+  padding: 0 !important;
+}
+
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2.5rem;
+  padding: 2.5rem;
+}
+
+.book-item {
+  position: relative;
+  margin-bottom: 2.5rem;
+  opacity: 0;
+  animation: .6s ease-out forwards fadeIn;
+  animation-delay: calc(var(--animation-order) * .1s);
+}
+
+.book-image-container {
+  position: relative;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.book-image {
+  position: relative;
+  z-index: 2;
+  transform: translateY(0);
+  transition: transform .3s;
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.book-content {
+  margin-top: 1rem;
+  transition: opacity .3s;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

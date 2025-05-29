@@ -13,7 +13,7 @@ permalink:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resenha de Livro: O Rei Perverso</title> 
+    <title>Resenha de Livro: A Rainha do Nada</title> 
     <style>
         /* Resetando o margin e padding de todos os elementos */
         * {

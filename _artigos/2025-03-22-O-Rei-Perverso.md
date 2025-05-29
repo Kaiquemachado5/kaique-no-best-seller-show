@@ -107,8 +107,7 @@ permalink:
         }
 </style>
 
-</head>
-<body>
+
 
 <h2>Contextualizando:</h2>
 <p>Esse livro é um <strong>best seller</strong>, então ele faz parte da nossa lista. <strong>“O Rei Perverso”</strong> é o segundo livro da trilogia <strong>“Povos do Ar”</strong>, que ajudou a coroar <strong>Holly Black</strong> como a “Rainha das Fadas” da fantasia jovem adulta. Atraindo a crítica e os leitores, ganhou o prêmio Goodreads de Melhor Livro de Fantasia para Jovens Adultos em 2019 e conquistou fãs no mundo todo.</p>
@@ -219,5 +218,4 @@ permalink:
 
 <p>Mais um item para nossa lista impossível!</p>
 
-</body>
-</html>
+

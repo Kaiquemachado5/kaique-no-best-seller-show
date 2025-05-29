@@ -109,7 +109,6 @@ permalink:
 </style>
 
 </head>
-<body>
 
 <h2>Resumo da trama:</h2>
 <p><strong>Esse livro</strong> é o primeiro da série "Povos do Ar". Ele conta a história de <strong>Jude Duarte</strong>, uma humana que teve seus pais assassinados e foi sequestrada junto de suas duas irmãs por um general de aparência distinta chamado <strong>Madoc</strong>.</p>
@@ -154,7 +153,3 @@ permalink:
 
 <p>Eu só quero lembrar que comprando pelo meu link de associado, você me apoia sem custo algum, e eu sou grato.<br>
 <a href="https://amzn.to/43kwiNh" target="_blank" rel="noopener noreferrer" class="buy-link">Compre O Príncipe Cruel na Amazon</a></p>
-
-</body>
-
-</html>

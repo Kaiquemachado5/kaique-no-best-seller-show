@@ -106,7 +106,8 @@ permalink:
             }
         }
 
-    </style>
+ </style>
+
 </head>
 <body>
 

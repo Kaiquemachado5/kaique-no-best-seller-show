@@ -105,8 +105,8 @@ permalink:
                 font-size: 1em;
             }
         }
+</style>
 
-    </style>
 </head>
 <body>
 

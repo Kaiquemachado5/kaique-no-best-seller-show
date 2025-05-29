@@ -106,11 +106,10 @@ permalink:
             }
         }
 
-    </style>
+</style>
+
 </head>
 <body>
-
-<h1>Resenha do Livro: O Príncipe Cruel</h1>
 
 <h2>Resumo da trama:</h2>
 <p><strong>Esse livro</strong> é o primeiro da série "Povos do Ar". Ele conta a história de <strong>Jude Duarte</strong>, uma humana que teve seus pais assassinados e foi sequestrada junto de suas duas irmãs por um general de aparência distinta chamado <strong>Madoc</strong>.</p>

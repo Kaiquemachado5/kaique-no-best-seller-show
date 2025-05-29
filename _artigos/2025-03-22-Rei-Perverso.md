@@ -2,7 +2,7 @@
 layout: livro
 title: "O Rei Perverso"
 author: Holly Black
-rating: 4
+rating: 4.0
 genre: "Fantasia"
 tags: ["aventura", "magia", "épico"]
 date: 2025-03-22
@@ -214,7 +214,8 @@ permalink:
 
 <p>Como dito no começo: <strong>política, política, política, Heather!</strong> É bom mencionar que o nosso casal sáfico está a todo conflito nesse livro também, mas é um respiro para toda aquela politicagem.</p>
 
-<p>Eu só quero lembrar que comprando pelo meu link de associado, você me apoia sem custo algum, e eu sou grato.</p>
+<p>Eu só quero lembrar que comprando pelo meu link de associado, você me apoia sem custo algum, e eu sou grato.<br>
+<a href="https://amzn.to/43C2EBI" target="_blank" rel="noopener noreferrer" class="buy-link">Compre O Rei Perverso na Amazon</a></p>
 
 <p>Mais um item para nossa lista impossível!</p>
 

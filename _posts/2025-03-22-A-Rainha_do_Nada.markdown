@@ -20,5 +20,4 @@ Ao pisar novamente em Elfhame, Jude descobre um reino à beira da guerra. Cercad
 
 ✨ <strong>A Rainha do Nada</strong> é o desfecho arrebatador da trilogia <strong>O Povo do Ar</strong>, onde intrigas palacianas, traições de tirar o fôlego e reviravoltas inesquecíveis consolidam <strong>Holly Black</strong> como a verdadeira rainha do Reino das Fadas—e um dos maiores nomes da fantasia jovem adulta.
 
-## Resenhas:
-
+Compre atráves do nosso link de associado ❤️: <a href="https://amzn.to/45zbLWz" target="_blank" rel="noopener noreferrer" class="buy-link">Compre A Rainha do Nada na Amazon</a>

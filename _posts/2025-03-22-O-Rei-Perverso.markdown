@@ -23,7 +23,4 @@ Enquanto isso, o reino enfrenta uma ameaça ainda maior. As ondas se erguem cont
 
 ⚔️ <em>"O Rei Perverso é tão intenso e arrebatador que você não conseguirá largá-lo."</em> – <strong>The Missourian</strong>
 
-
-
-## Resenhas:
-
+Compre atráves do nosso link de associado ❤️: <a href="https://amzn.to/43C2EBI" target="_blank" rel="noopener noreferrer" class="buy-link">Compre O Rei Perverso na Amazon</a>

@@ -4,7 +4,7 @@ title: "O Principe Cruel"
 genre: "Fantasia"
 tags: ["aventura", "magia", "épico"]
 author: Holly Black
-rating: 4
+rating: 3.5
 date: 2025-03-22
 permalink:
 ---
@@ -153,7 +153,8 @@ permalink:
     <p>Esse livro é voltado para o público jovem adulto. Então se você não se encaixa nessa categoria pode sentir uma certa desconexão, assim como eu.</p>
     <p>Eu também indico esse livro para quem curte fantasia, mas uma fantasia mais focada em política.</p>
 
-    <p>Eu só quero lembrar que comprando pelo meu link de associado, você me apoia sem custo algum, e eu sou grato.</p>
+    <p>Eu só quero lembrar que comprando pelo meu link de associado, você me apoia sem custo algum, e eu sou grato.<br>
+    <a href="https://amzn.to/43kwiNh" target="_blank" rel="noopener noreferrer" class="buy-link">Compre O Príncipe Cruel na Amazon</a></p>
 
 </body>
 </html>

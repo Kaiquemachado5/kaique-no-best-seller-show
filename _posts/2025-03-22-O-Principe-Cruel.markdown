@@ -16,7 +16,4 @@ Da autora nº 1 do The New York Times, <strong>Holly Black</strong>, <strong>O P
 
 ✨ Com personagens inesquecíveis, reviravoltas de tirar o fôlego e traições que vão deixar marcas, <strong>O Príncipe Cruel</strong> é um livro impossível de largar—e que fará você ansiar desesperadamente pela continuação.
 
-
-## Resenhas:
-
-O Príncepe Cruel Resenha Completa: 
+Compre atráves do nosso link de associado ❤️: <a href="https://amzn.to/43kwiNh" target="_blank" rel="noopener noreferrer" class="buy-link">Compre O Príncipe Cruel na Amazon</a>
